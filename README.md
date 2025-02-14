@@ -43,5 +43,5 @@ Multilingual models show performance variations based on linguistic complexity.
 
 **🤝 Team**
 
- -Ajla Beća
- -Selma Salman
+ - Ajla Beća
+ - Selma Salman
